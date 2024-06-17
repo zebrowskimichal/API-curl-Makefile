@@ -11,7 +11,13 @@ Ten kod w PHP testuje trzy publiczne API, które nie wymagają żadnych kodów, 
 
 1. Skopiuj kod do odpowiedniej lokalizacji i uruchom serwer www (np. używając XAMPP)
 
+ Jeżeli wszystkie testy zostaną przeprowadzone poprawnie ujrzymy stronę:
+ 
+![Passed](https://github.com/zebrowskimichal/API-curl-Makefile/assets/117666366/d2115d63-684b-4491-affb-56aaeaa1ce53)
 
+W innym przypadku ujrzymy błąd:
+
+![Error](https://github.com/zebrowskimichal/API-curl-Makefile/assets/117666366/5cdd17fb-a83e-4a80-bf73-a881669e8572)
 
 
 
