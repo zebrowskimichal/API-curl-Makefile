@@ -29,3 +29,5 @@ Wystarczy użyć polecenia
 
 - make run
 (Zmieni wymiary obrazu na 200x300, można zmienić w pliku makefile)
+
+![Screenshot-PS](https://github.com/zebrowskimichal/API-curl-Makefile/assets/117666366/a001d8d9-9372-488f-a96d-0962686aca81)
